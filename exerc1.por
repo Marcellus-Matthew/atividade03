@@ -14,15 +14,15 @@ programa
 
 		pagamento = n1 * 30
 
-		escreva("o professor nivel 1 recebe ",pagamento,"!")
+		escreva("o professor nivel 1 recebe ",pagamento," \n")
 
 		pagamento = n2 * 32
 
-		escreva("o professor nivel 2 recebe ",pagamento,"!")
+		escreva("o professor nivel 2 recebe ",pagamento," \n")
 
 		pagamento = n3 * 36
 
-		escreva("o professor nivel 3 recebe ",pagamento,"!")
+		escreva("o professor nivel 3 recebe ",pagamento," \n")
 
 		
 
@@ -34,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 414; 
+ * @POSICAO-CURSOR = 309; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
